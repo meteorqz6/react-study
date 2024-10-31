@@ -1,9 +1,19 @@
+.board{
+  background-color: rgb(3, 22, 38);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0,1);
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+}
+
 .container{
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
   background-color: black;
   color : white;
+  text-align: center;
 }
 .test{
   background: blueviolet;
